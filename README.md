@@ -10,6 +10,7 @@ The only script inside of this is MovingLineGame.lua which has multiple function
 - Uses tweening service to move green line back and forth
 - Runs an event on the click of the gamebutton (green circle) to check if the greenline was inside of the whiteline
 - Tracks missed attempts, once missed attempts is 3, sets active to false, ending the game and unfreezing the users position
+- Speeds up the greenline slightly everytime the gamebutton is clicked
 
 Demo - https://youtu.be/9UvvBpcwFzA
   
